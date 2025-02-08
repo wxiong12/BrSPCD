@@ -1,4 +1,4 @@
-Bridge Sonar Point Cloud Dataset (BrSPCD)
+Bridge Sonar Point Cloud Dataset (BrSPCD) Version_0.0
 
 Four files from BrSPCD have been uploaded, including 20% of the BrSPCD sample files and the binarized S3DIS, ScanNet, and SemanticKITTI data files for algorithm performance evaluation. 
 
