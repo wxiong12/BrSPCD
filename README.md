@@ -16,7 +16,7 @@ Not for any other commercial use.
 
 Bridge Sonar Point Cloud Dataset (BrSPCD) Version_1.0
 
-We have updated the dataset, adding the point cloud files of the four entire scenes mentioned above, along with their corresponding labels and visualization images for quick review.
+We have updated the dataset, adding the point cloud files of the four entire bridge sonar point cloud scenes, along with their corresponding labels and visualization images for quick review.
 
 Currently, our manuscript is still under review, and detailed content of the article along with data-related information will be updated upon acceptance.
 
