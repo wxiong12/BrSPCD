@@ -1,0 +1,19 @@
+Bridge Sonar Point Cloud Dataset (BrSPCD) Official Version_1.0
+
+The uploaded dataset includes all 116 fragmented point cloud segments referenced in our publication, along with four complete scene datasets and three binarized datasets derived from other sources.
+
+Each compressed package, upon extraction, contains a standardized directory structure with the following three subfolders:
+
+PointCloud/: stores point cloud files in text format, each containing n rows and 3 columns representing 3D coordinates.
+
+Label/: contains label files with n rows and 1 column, where labels “0” and “1” correspond to two semantic classes.
+
+Visualization/: includes .tif images for rapid visual inspection of the data.
+
+The BrSPCD dataset is suitable for various downstream tasks such as semantic segmentation of underwater bridge sonar point clouds, morphological analysis, denoising, and 3D shape reconstruction. Researchers are welcome to use the dataset.
+
+BrSPCD was first introduced in our article "Lightweight learning-based sonar point cloud semantic segmentation for underwater bridge inspection", authored by Zelin Huang, Yanjie Zhu, Wen Xiong*, and Shuaihui Zhang. 
+
+The article was published in the journal Automation in Construction. If you find our dataset useful, please consider citing our paper.
+
+2025/7/08
