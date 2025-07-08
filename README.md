@@ -25,3 +25,16 @@ The BrSPCD dataset is a long-term project that will be continuously updated with
 Not for any other commercial use.
 
 2025/4/05
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+Bridge Sonar Point Cloud Dataset (BrSPCD)  Official Version_1.0
+
+The BrSPCD dataset was introduced in our paper "Lightweight learning-based sonar point cloud semantic segmentation for underwater bridge inspection", authored by Zelin Huang, Yanjie Zhu, Wen Xiong*, and Shuaihui Zhang.
+
+Not for any other commercial use.This databank comprises 116 fragmented files and four entire detection scenes from three cross-Yangtze River bridges and was segmented and labeled to identify the foundation and terrain point clouds. 
+
+This BrSPCD also potentially helps in performing downstream tasks, such as point cloud denoising and structural reconstruction.
+
+2025/4/05
